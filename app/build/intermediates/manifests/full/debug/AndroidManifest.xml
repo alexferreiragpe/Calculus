@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.alexf.mathkids"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation|screenSize"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="landscape"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.alexf.calculus.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.alexf.calculus.SplashActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_splash"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.alexf.calculus.IdentificaActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_identifica"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.alexf.calculus.Nivel_Medio_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nivel__medio__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Nivel_Dificil_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nivel__dificil__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Nivel_Facil_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nivel__facil__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Home_Inicial_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_home__inicial__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Opcoes_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_opcoes__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Sobre_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_sobre__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Help_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_help__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Nivel_Facil_Soma_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nivel__facil__soma__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Nivel_Facil_Subtracao_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nivel__facil__subracao__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Nivel_Facil_Multiplicacao_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nivel__facil__multiplicacao__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Nivel_Facil_Divisao_FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nivel__facil__divisao__fullscreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Nivel_Facil_Soma"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__nivel__facil__soma"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Nivel_Facil_Subtracao"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__nivel__facil__subtracao"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Nivel_Facil_Multiplicacao"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__nivel__facil__multiplicacao"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Nivel_Facil_Divisao"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__nivel__facil__divisao"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Facil_Soma_Novo"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recorde__facil__soma__novo"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Nivel_Facil_Subtracao_Novo"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__nivel__facil__subtracao__novo"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Nivel_Medio"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__nivel__medio"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.example.alexf.calculus.Recordes_Nivel_Dificil"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_recordes__nivel__dificil"
+            android:screenOrientation="landscape"
+            android:theme="@style/FullscreenTheme" />
+    </application>
+
+</manifest>
