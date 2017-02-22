@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Calculus - Aprenda Matemática Brincando</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="title_activity_splash">Calculus</string>
+    <string name="title_activity_identifica">Calculus - Identificação</string>
+    <string name="title_activity_novo_jogo">Calculus - Novo Jogo</string>
+    <string name="title_activity_continuar">Calculus - Continuar</string>
+    <string name="title_activity_recordes">Calculus - Recordes</string>
+    <string name="title_activity_opcoes">Calculus - Opções</string>
+    <string name="title_activity_ajuda">Calculus - Ajuda</string>
+    <string name="mathkids">Calculus</string>
+    <string name="mathkids_mathkids_com_br">alexferreira@hotmail.com.br</string>
+
+    <string name="title_activity_nivel_facil__fullscreen">Calculus - Nível Fácil</string>
+    <string name="dummy_button">Voltar</string>
+    <string name="dummy_content">Calculus\n\n Bem Vindo</string>
+
+    <string name="title_activity_nivel__medio__fullscreen">Calculus - Nível Médio</string>
+
+    <string name="title_activity_nivel__dificil__fullscreen">Calculus - Nível Difícil</string>
+
+    <string name="title_activity_nivel__facil__fullscreen">Calculus - Nível Fácil </string>
+
+    <string name="title_activity_home__inicial__fullscreen">Calculus - Inicial</string>
+
+    <string name="title_activity_sobre__fullscreen">Calculus - Sobre</string>
+
+    <string name="title_activity_recordes__fullscreen">Calculus - Recordes</string>
+
+    <string name="title_activity_opcoes__fullscreen">Calculus - Opçôes</string>
+
+    <string name="title_activity_ajuda__fullscreen">Calculus - Ajuda</string>
+    <string name="voltando">Voltar</string>
+
+    <string name="title_activity_about__fullscreen">Calculus - Sobre</string>
+    <string name="dif_cil">Difícil</string>
+    <string name="escolha_o_n_vel">Escolha o Nível</string>
+    <string name="f_cil">Fácil</string>
+    <string name="m_dio">Médio</string>
+    <string name="voltar">Voltar</string>
+    <string name="mathkids_sobre">Calculus - Sobre</string>
+
+    <string name="title_activity_help__fullscreen">Calculus - Ajuda</string>
+
+    <string name="title_activity_nivel__facil__soma__fullscreen">Calculus - Nível Fácil Soma</string>
+    <string name="operador">+</string>
+    <string name="valor1">10</string>
+    <string name="igual">=</string>
+    <string name="vamos_somar">Vamos Somar</string>
+    <string name="avancar">Acertou!</string>
+
+    <string name="title_activity_nivel__facil__subracao__fullscreen">
+        Calculus - Nível Fácil Subtração
+    </string>
+
+    <string name="title_activity_nivel__facil__multiplicacao__fullscreen">
+        Calculus - Nível Fácil Multiplicação
+    </string>
+
+    <string name="title_activity_nivel__facil__divisao__fullscreen">
+        Calculus - Nível Fácil Divisão
+    </string>
+    <string name="acertos">Acertos:</string>
+    <string name="button">Button</string>
+    <string name="erros">Erros:</string>
+    <string name="textview">TextView</string>
+
+    <string name="title_activity_recordes__nivel__facil__soma">Recordes Nível Fácil Soma</string>
+
+    <string name="title_activity_recordes__nivel__facil__subtracao">Recordes Nível Fácil Subtração
+    </string>
+
+    <string name="title_activity_recordes__nivel__facil__multiplicacao">
+        Recordes Nível Fácil Multiplicação
+    </string>
+
+    <string name="title_activity_recordes__nivel__facil__divisao">Recordes Nível Fácil Divisão
+    </string>
+
+    <string name="title_activity_recorde__facil__soma__novo">Recordes Nível Fácil Soma</string>
+
+    <string name="title_activity_recordes__nivel__facil__subtracao__novo">
+        Recordes Nível Fácil Subtração
+    </string>
+
+    <string name="title_activity_recordes__nivel__medio">Recordes Nível Médio</string>
+
+    <string name="title_activity_recordes__nivel__dificil">Recordes Nível Difícil</string>
+
+</resources>
