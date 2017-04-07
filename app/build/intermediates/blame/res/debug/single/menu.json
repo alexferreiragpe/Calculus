@@ -1,10 +1,10 @@
 [
-    {
-        "merged": "E:\\Drive\\Facul\\tcc\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\Drive\\Facul\\tcc\\Calculus\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "E:\\Drive\\Facul\\tcc\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "E:\\Drive\\Facul\\tcc\\Calculus\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    }
+  {
+    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\menu\\main.xml"
+  },
+  {
+    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+  }
 ]

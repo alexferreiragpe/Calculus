@@ -1,117 +1,68 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#0099cc"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#0099cc"
     tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.Home_Inicial_FullscreenActivity">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
          TextureView, etc. -->
-    <TextView
-        android:id="@+id/fullscreen_content"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:keepScreenOn="true"
-        android:text="@string/dummy_content"
-        android:textColor="#33b5e5"
-        android:textSize="50sp"
+    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:gravity="center" android:keepScreenOn="true"
+        android:text="@string/dummy_content" android:textColor="#33b5e5" android:textSize="50sp"
         android:textStyle="bold" />
 
     <!-- This FrameLayout insets its children based on system windows using
          android:fitsSystemWindows. -->
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/side_nav_bar"
-        android:fitsSystemWindows="true">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+        android:background="@drawable/side_nav_bar" android:fitsSystemWindows="true">
 
-        <LinearLayout
-            android:id="@+id/fullscreen_content_controls"
-            style="?metaButtonBarStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+        <LinearLayout android:id="@+id/fullscreen_content_controls" style="?metaButtonBarStyle"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_gravity="bottom|center_horizontal"
-            android:background="@color/black_overlay"
-            android:orientation="horizontal"
+            android:background="@color/black_overlay" android:orientation="horizontal"
             tools:ignore="UselessParent">
 
         </LinearLayout>
 
     </FrameLayout>
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="311dp">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="311dp">
 
-        <Button
-            android:id="@+id/BtnRecordes"
-            style="?metaButtonBarButtonStyle"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/BtnOpcoes"
-            android:layout_alignStart="@+id/BtnNovoJogo"
-            android:layout_marginBottom="34dp"
-            android:background="@color/black_overlay"
-            android:backgroundTint="@color/colorAccent"
-            android:ems="5"
-            android:fontFamily="casual"
-            android:text="Recordes"
-            android:textColor="@android:color/background_light"
-            android:textSize="25sp"
-            android:textStyle="normal|bold" />
+        <Button android:id="@+id/BtnRecordes" style="?metaButtonBarButtonStyle"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_above="@+id/BtnOpcoes" android:layout_alignStart="@+id/BtnNovoJogo"
+            android:layout_marginBottom="34dp" android:background="@color/black_overlay"
+            android:backgroundTint="@color/colorAccent" android:ems="5" android:fontFamily="casual"
+            android:text="Recordes" android:textColor="@android:color/background_light"
+            android:textSize="25sp" android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
-        <Button
-            android:id="@+id/BtnAjuda"
-            style="?metaButtonBarButtonStyle"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_alignStart="@+id/BtnOpcoes"
-            android:layout_marginBottom="24dp"
-            android:background="@color/black_overlay"
-            android:backgroundTint="@color/colorAccent"
-            android:ems="5"
-            android:fontFamily="casual"
-            android:text="Ajuda"
-            android:textColor="@android:color/background_light"
-            android:textSize="25sp"
-            android:textStyle="normal|bold" />
+        <Button android:id="@+id/BtnAjuda" style="?metaButtonBarButtonStyle"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true" android:layout_alignStart="@+id/BtnOpcoes"
+            android:layout_marginBottom="24dp" android:background="@color/black_overlay"
+            android:backgroundTint="@color/colorAccent" android:ems="5" android:fontFamily="casual"
+            android:text="Ajuda" android:textColor="@android:color/background_light"
+            android:textSize="25sp" android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
-        <Button
-            android:id="@+id/BtnNovoJogo"
-            style="?metaButtonBarButtonStyle"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/BtnRecordes"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="19dp"
-            android:background="@color/black_overlay"
-            android:backgroundTint="@color/colorAccent"
-            android:ems="5"
-            android:fontFamily="casual"
-            android:text="Jogar"
-            android:textColor="@android:color/background_light"
-            android:textSize="25sp"
-            android:textStyle="normal|bold" />
+        <Button android:id="@+id/BtnNovoJogo" style="?metaButtonBarButtonStyle"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_above="@+id/BtnRecordes" android:layout_centerHorizontal="true"
+            android:layout_marginBottom="19dp" android:background="@color/black_overlay"
+            android:backgroundTint="@color/colorAccent" android:ems="5" android:fontFamily="casual"
+            android:text="Jogar" android:textColor="@android:color/background_light"
+            android:textSize="25sp" android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
-        <Button
-            android:id="@+id/BtnOpcoes"
-            style="?metaButtonBarButtonStyle"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/BtnAjuda"
-            android:layout_alignStart="@+id/BtnRecordes"
-            android:layout_marginBottom="23dp"
-            android:background="@color/black_overlay"
-            android:backgroundTint="@color/colorAccent"
-            android:ems="5"
-            android:fontFamily="casual"
-            android:text="Opções"
-            android:textColor="@android:color/background_light"
-            android:textSize="25sp"
-            android:textStyle="normal|bold" />
+        <Button android:id="@+id/BtnOpcoes" style="?metaButtonBarButtonStyle"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_above="@+id/BtnAjuda" android:layout_alignStart="@+id/BtnRecordes"
+            android:layout_marginBottom="23dp" android:background="@color/black_overlay"
+            android:backgroundTint="@color/colorAccent" android:ems="5" android:fontFamily="casual"
+            android:text="Opções" android:textColor="@android:color/background_light"
+            android:textSize="25sp" android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
     </RelativeLayout>
 

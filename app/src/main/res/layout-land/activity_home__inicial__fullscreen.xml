@@ -60,7 +60,8 @@
             android:text="Recordes"
             android:textColor="@android:color/background_light"
             android:textSize="25sp"
-            android:textStyle="normal|bold" />
+            android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
         <Button
             android:id="@+id/BtnAjuda"
@@ -77,7 +78,8 @@
             android:text="Ajuda"
             android:textColor="@android:color/background_light"
             android:textSize="25sp"
-            android:textStyle="normal|bold" />
+            android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
         <Button
             android:id="@+id/BtnNovoJogo"
@@ -94,7 +96,8 @@
             android:text="Jogar"
             android:textColor="@android:color/background_light"
             android:textSize="25sp"
-            android:textStyle="normal|bold" />
+            android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
         <Button
             android:id="@+id/BtnOpcoes"
@@ -111,7 +114,8 @@
             android:text="Opções"
             android:textColor="@android:color/background_light"
             android:textSize="25sp"
-            android:textStyle="normal|bold" />
+            android:textStyle="normal|bold"
+            tools:ignore="HardcodedText,UnusedAttribute" />
 
     </RelativeLayout>
 

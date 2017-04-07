@@ -62,7 +62,7 @@
             android:fontFamily="casual"
             android:text="Vamos Dividir"
             android:textAlignment="center"
-            android:textColor="?android:attr/colorMultiSelectHighlight"
+            android:textColor="#1E90FF"
             android:textSize="40sp"
             android:textStyle="normal|bold" />
 

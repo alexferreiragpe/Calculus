@@ -39,10 +39,10 @@
             android:gravity="top"
             android:text="Calculus - Recordes"
             android:textAlignment="center"
-            android:textColor="@android:color/holo_red_light"
+            android:textColor="#1E90FF"
             android:textSize="30sp"
             android:textStyle="normal|bold"
-            tools:text="MathKids - Recordes" />
+            tools:ignore="HardcodedText,ObsoleteLayoutParam" />
 
         <ListView
             android:id="@+id/Lista"
@@ -52,7 +52,7 @@
             android:layout_marginTop="50dp"
             android:scrollbarDefaultDelayBeforeFade="1500"
             android:scrollbarFadeDuration="1500"
-            tools:listitem="nome,idade" />
+            tools:ignore="RtlHardcoded" />
 
         <LinearLayout
             android:id="@+id/fullscreen_content_controls"

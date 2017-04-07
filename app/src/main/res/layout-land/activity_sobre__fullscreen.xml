@@ -35,7 +35,7 @@
             android:fontFamily="casual"
             android:text="Calculus - Sobre"
             android:textAlignment="center"
-            android:textColor="@android:color/holo_purple"
+            android:textColor="#1E90FF"
             android:textSize="30sp"
             android:textStyle="normal|bold" />
 

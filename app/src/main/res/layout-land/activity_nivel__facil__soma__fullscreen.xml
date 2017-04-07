@@ -60,7 +60,7 @@
             android:fontFamily="casual"
             android:text="Vamos Somar"
             android:textAlignment="center"
-            android:textColor="@color/colorPrimary"
+            android:textColor="#1E90FF"
             android:textSize="40sp"
             android:textStyle="normal|bold" />
 

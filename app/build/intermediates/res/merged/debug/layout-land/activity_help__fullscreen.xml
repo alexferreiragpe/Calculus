@@ -1,58 +1,33 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#0099cc"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#0099cc"
     tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.Help_FullscreenActivity">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
          TextureView, etc. -->
-    <TextView
-        android:id="@+id/fullscreen_content"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:keepScreenOn="true"
-        android:text="@string/dummy_content"
-        android:textColor="#33b5e5"
-        android:textSize="80sp"
+    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:gravity="center" android:keepScreenOn="true"
+        android:text="@string/dummy_content" android:textColor="#33b5e5" android:textSize="80sp"
         android:textStyle="bold" />
 
     <!-- This FrameLayout insets its children based on system windows using
          android:fitsSystemWindows. -->
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/fundo_quadro"
-        android:fitsSystemWindows="true">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+        android:background="@drawable/fundo_quadro" android:fitsSystemWindows="true">
 
-        <TextView
-            android:id="@+id/textView12"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:fontFamily="casual"
-            android:text="Calculus - Ajuda"
-            android:textAlignment="center"
-            android:textColor="@android:color/holo_red_light"
-            android:textSize="30sp"
+        <TextView android:id="@+id/textView12" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="10dp"
+            android:fontFamily="casual" android:text="Calculus - Ajuda"
+            android:textAlignment="center" android:textColor="#1E90FF" android:textSize="30sp"
             android:textStyle="normal|bold" />
 
-        <TextView
-            android:id="@+id/textView13"
-            android:layout_width="match_parent"
-            android:layout_height="196dp"
-            android:layout_marginLeft="40dp"
-            android:layout_marginRight="15dp"
-            android:layout_marginTop="50dp"
-            android:fontFamily="casual"
-            android:maxLines="500"
-            android:scrollIndicators="right"
-            android:scrollbarDefaultDelayBeforeFade="1500"
-            android:scrollbarFadeDuration="1200"
-            android:scrollbars="vertical"
-            android:text="    O Calculus destina-se principalmente à crianças das séries iniciais do ensino básico, ou seja, faixa etária de 10 anos.  Com objetivo de estimular o interesse na matemática e auxiliar o raciocínio lógico com agilidade nas repostas.\n\nInformações sobre o uso do Calculus:\n
+        <TextView android:id="@+id/textView13" android:layout_width="match_parent"
+            android:layout_height="196dp" android:layout_marginLeft="40dp"
+            android:layout_marginRight="15dp" android:layout_marginTop="50dp"
+            android:fontFamily="casual" android:maxLines="500" android:scrollIndicators="right"
+            android:scrollbarDefaultDelayBeforeFade="1500" android:scrollbarFadeDuration="1200"
+            android:scrollbars="vertical" android:text="    O Calculus destina-se principalmente à crianças das séries iniciais do ensino básico, ou seja, faixa etária de 10 anos.  Com objetivo de estimular o interesse na matemática e auxiliar o raciocínio lógico com agilidade nas repostas.\n\nInformações sobre o uso do Calculus:\n
                 \n Iniciando o Calculus, insira seu Nome e Idade nos Campos, pois esses dados serão usados para exibir os Recordes. Esta tela verifica, se o jogador já possui cadastro, senão irá cadastrar no aplicativo.
                 \n Acessando o Calculus, já é possível jogar e testar seus conhecimentos.
                 \n No canto superior esquerdo, o jogo tem um Menu. Acessando o mesmo, estará visível o Menu abaixo:\n
@@ -67,32 +42,21 @@ Acertando a conta, uma mensagem de “Correto” aparecerá na tela, caso contr�
     No Nível Difícil, é incluída mais uma operação, sendo 3 valores e duas operações. As operações e valores são gerados aleatórias.  Este nível apresenta 20 (vinte) contas para  esta fase. \n
     Futuramente ao terminar corretamente a fase do nível difícil, o jogador receberá um código, o qual desbloqueará níveis bônus no menu “Opções”, aumentando sua pontuação.\n
     Todos os resultados obtidos ao final de cada nível, desde que apareça a mensagem de Fase Concluída, os resultados serão automaticamente inseridos em “Recordes”, aonde aparecererão em ordem decrescente para cada fase e/ou nível."
-            android:textColor="@android:color/black"
-            android:textSize="15sp"
+            android:textColor="@android:color/black" android:textSize="15sp"
             android:textStyle="normal|bold" />
 
-        <LinearLayout
-            android:id="@+id/fullscreen_content_controls"
-            style="?metaButtonBarStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+        <LinearLayout android:id="@+id/fullscreen_content_controls" style="?metaButtonBarStyle"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_gravity="bottom|center_horizontal"
-            android:background="@color/black_overlay"
-            android:orientation="horizontal"
+            android:background="@color/black_overlay" android:orientation="horizontal"
             tools:ignore="UselessParent">
 
 
-            <Button
-                android:id="@+id/dummy_button"
-                style="?metaButtonBarButtonStyle"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:background="@color/black_overlay"
-                android:fontFamily="sans-serif-medium"
-                android:text="@string/dummy_button"
-                android:textColor="@color/colorAccent"
-                android:textSize="20sp"
+            <Button android:id="@+id/dummy_button" style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:background="@color/black_overlay"
+                android:fontFamily="sans-serif-medium" android:text="@string/dummy_button"
+                android:textColor="@color/colorAccent" android:textSize="20sp"
                 android:textStyle="normal|bold" />
 
         </LinearLayout>

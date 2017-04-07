@@ -1,95 +1,56 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#0099cc"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#0099cc"
     tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.Opcoes_FullscreenActivity">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
          TextureView, etc. -->
-    <TextView
-        android:id="@+id/fullscreen_content"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:keepScreenOn="true"
-        android:text="@string/dummy_content"
-        android:textColor="#33b5e5"
-        android:textSize="50sp"
+    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:gravity="center" android:keepScreenOn="true"
+        android:text="@string/dummy_content" android:textColor="#33b5e5" android:textSize="50sp"
         android:textStyle="bold" />
 
     <!-- This FrameLayout insets its children based on system windows using
          android:fitsSystemWindows. -->
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/fundo_quadro"
-        android:fitsSystemWindows="true">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+        android:background="@drawable/fundo_quadro" android:fitsSystemWindows="true">
 
-        <TextView
-            android:id="@+id/textView9"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="30dp"
-            android:background="@android:color/transparent"
-            android:fontFamily="casual"
-            android:gravity="top"
-            android:text="Calculus - Opções"
-            android:textAlignment="center"
-            android:textColor="@android:color/holo_orange_light"
-            android:textSize="30sp"
+        <TextView android:id="@+id/textView9" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" android:layout_marginTop="30dp"
+            android:background="@android:color/transparent" android:fontFamily="casual"
+            android:gravity="top" android:text="Calculus - Opções" android:textAlignment="center"
+            android:textColor="@android:color/holo_orange_light" android:textSize="30sp"
             android:textStyle="normal|bold" />
 
-        <LinearLayout
-            android:id="@+id/fullscreen_content_controls"
-            style="?metaButtonBarStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+        <LinearLayout android:id="@+id/fullscreen_content_controls" style="?metaButtonBarStyle"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_gravity="bottom|center_horizontal"
-            android:background="@color/black_overlay"
-            android:orientation="horizontal"
+            android:background="@color/black_overlay" android:orientation="horizontal"
             tools:ignore="UselessParent">
 
-            <Button
-                android:id="@+id/dummy_button"
-                style="?metaButtonBarButtonStyle"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:background="@color/black_overlay"
-                android:fontFamily="sans-serif-medium"
-                android:text="@string/dummy_button"
-                android:textColor="@color/colorAccent"
-                android:textSize="20sp"
+            <Button android:id="@+id/dummy_button" style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:background="@color/black_overlay"
+                android:fontFamily="sans-serif-medium" android:text="@string/dummy_button"
+                android:textColor="@color/colorAccent" android:textSize="20sp"
                 android:textStyle="normal|bold" />
 
 
         </LinearLayout>
 
-        <ImageButton
-            android:id="@+id/BtnDesativaSom"
-            android:layout_width="48dp"
-            android:layout_height="42dp"
-            android:layout_marginLeft="200dp"
-            android:layout_marginTop="100dp"
-            android:background="@android:color/holo_red_dark"
+        <ImageButton android:id="@+id/BtnDesativaSom" android:layout_width="48dp"
+            android:layout_height="42dp" android:layout_marginLeft="200dp"
+            android:layout_marginTop="100dp" android:background="@android:color/holo_red_dark"
             app:srcCompat="@android:drawable/ic_lock_silent_mode_off" />
 
-        <TextView
-            android:id="@+id/textView14"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="265dp"
-            android:layout_marginTop="110dp"
-            android:fontFamily="casual"
-            android:text="Desativar Som"
-            android:textColor="@android:color/holo_red_dark"
-            android:textSize="20sp"
-            android:textStyle="normal|bold" />
+        <TextView android:id="@+id/textView14" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_marginLeft="265dp"
+            android:layout_marginTop="110dp" android:fontFamily="casual"
+            android:text="Desativar Som" android:textColor="@android:color/holo_red_dark"
+            android:textSize="20sp" android:textStyle="normal|bold" />
 
     </FrameLayout>
 

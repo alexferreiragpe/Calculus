@@ -34,7 +34,7 @@
             android:fontFamily="casual"
             android:text="Recordes Nível Difícil"
             android:textAlignment="center"
-            android:textColor="@android:color/holo_red_dark"
+            android:textColor="#1E90FF"
             android:textSize="20sp"
             android:textStyle="normal|bold" />
 

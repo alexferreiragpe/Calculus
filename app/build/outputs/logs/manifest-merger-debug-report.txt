@@ -1,348 +1,352 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:2:1-159:12
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:2:1-166:12
 	package
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:5:22-75
 application
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:5:5-157:19
-MERGED from [com.android.support:design:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:8:5-164:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\alexf\.android\build-cache\cbb8a4e476a858495ae0747ba01914564942ffe0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\alexf\.android\build-cache\992a9a6ff0381733990379a955d5d992a70774ec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\alexf\.android\build-cache\89e531f17738e0abd15609c57431a25ca0b2d779\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\alexf\.android\build-cache\6a1f8d5b284427180277195b5f254789367f0dc9\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\alexf\.android\build-cache\076dc909951c613dc7b50472771ea295a3c86449\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\alexf\.android\build-cache\b64df9bc46ccafdcfa6de78314d44036a814d8ab\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\alexf\.android\build-cache\384015b3bd2d639a951b9232e27c25bf2a634401\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\alexf\.android\build-cache\10741ebd359c6c7ae712c238cccb99806a107df4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\alexf\.android\build-cache\cf2f2af12ebb7461cad5f7440962638a4f047a4f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\alexf\.android\build-cache\b3abadd19ff9db26d93285ba6d9837be688e0083\output\AndroidManifest.xml:25:5-20
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:10:9-46
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:13:9-46
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:12:9-41
 	android:supportsRtl
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:14:9-35
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:7:9-55
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:10:9-55
 	android:allowBackup
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:11:9-43
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:12:9-40
-activity#com.example.alexf.calculus.MainActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:13:9-18:59
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.alex.calculus.inicio.MainActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:18:9-23:59
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:17:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:22:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:21:13-45
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:15:13-59
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:20:13-59
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:23:13-56
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:14:13-67
-activity#com.example.alexf.calculus.SplashActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:19:9-30:20
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:19:13-65
+activity#com.alex.calculus.inicio.SplashActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:24:9-34:20
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:23:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:28:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:22:13-58
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:27:13-58
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:21:13-59
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:26:13-59
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:24:13-56
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:29:13-56
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:20:13-69
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:25:13-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:28:27-74
-activity#com.example.alexf.calculus.IdentificaActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:31:9-36:59
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.alex.calculus.inicio.IdentificaActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:35:9-40:59
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:35:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:39:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:34:13-62
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:38:13-62
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:33:13-59
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:37:13-59
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:36:13-56
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:40:13-56
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:32:13-73
-activity#com.example.alexf.calculus.Nivel_Medio_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:37:9-42:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:36:13-71
+activity#com.alex.calculus.niveis.Nivel_Medio_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:41:9-46:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:41:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:45:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:40:13-76
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:44:13-76
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:39:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:43:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:42:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:46:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:38:13-85
-activity#com.example.alexf.calculus.Nivel_Dificil_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:43:9-48:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:42:13-83
+activity#com.alex.calculus.niveis.Nivel_Dificil_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:47:9-52:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:47:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:51:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:46:13-78
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:50:13-78
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:45:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:49:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:48:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:52:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:44:13-87
-activity#com.example.alexf.calculus.Nivel_Facil_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:49:9-54:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:48:13-85
+activity#com.alex.calculus.niveis.Nivel_Facil_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:53:9-58:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:53:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:57:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:52:13-76
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:56:13-76
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:51:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:55:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:54:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:58:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:50:13-85
-activity#com.example.alexf.calculus.Home_Inicial_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:55:9-60:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:54:13-83
+activity#com.alex.calculus.inicio.Home_Inicial_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:59:9-64:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:59:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:63:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:58:13-77
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:62:13-77
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:57:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:61:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:60:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:64:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:56:13-86
-activity#com.example.alexf.calculus.Recordes_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:61:9-66:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:60:13-84
+activity#com.alex.calculus.recordes.Recordes_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:65:9-70:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:65:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:69:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:64:13-72
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:68:13-72
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:63:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:67:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:66:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:70:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:62:13-82
-activity#com.example.alexf.calculus.Opcoes_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:67:9-72:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:66:13-82
+activity#com.alex.calculus.inicio.Opcoes_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:71:9-76:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:71:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:75:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:70:13-70
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:74:13-70
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:69:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:73:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:72:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:76:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:68:13-80
-activity#com.example.alexf.calculus.Sobre_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:73:9-78:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:72:13-78
+activity#com.alex.calculus.inicio.Sobre_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:77:9-82:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:77:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:81:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:76:13-69
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:80:13-69
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:75:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:79:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:78:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:82:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:74:13-79
-activity#com.example.alexf.calculus.Help_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:79:9-84:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:78:13-77
+activity#com.alex.calculus.inicio.Help_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:83:9-88:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:83:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:87:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:82:13-68
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:86:13-68
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:81:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:85:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:84:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:88:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:80:13-78
-activity#com.example.alexf.calculus.Nivel_Facil_Soma_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:85:9-90:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:84:13-76
+activity#com.alex.calculus.niveis.Nivel_Facil_Soma_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:89:9-94:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:89:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:93:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:88:13-82
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:92:13-82
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:87:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:91:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:90:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:94:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:86:13-90
-activity#com.example.alexf.calculus.Nivel_Facil_Subtracao_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:91:9-96:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:90:13-88
+activity#com.alex.calculus.niveis.Nivel_Facil_Subtracao_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:95:9-100:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:95:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:99:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:94:13-86
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:98:13-86
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:93:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:97:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:96:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:100:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:92:13-95
-activity#com.example.alexf.calculus.Nivel_Facil_Multiplicacao_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:97:9-102:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:96:13-93
+activity#com.alex.calculus.niveis.Nivel_Facil_Multiplicacao_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:101:9-106:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:101:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:105:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:100:13-91
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:104:13-91
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:99:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:103:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:102:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:106:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:98:13-99
-activity#com.example.alexf.calculus.Nivel_Facil_Divisao_FullscreenActivity
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:103:9-108:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:102:13-97
+activity#com.alex.calculus.niveis.Nivel_Facil_Divisao_FullscreenActivity
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:107:9-112:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:107:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:111:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:106:13-85
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:110:13-85
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:105:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:109:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:108:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:112:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:104:13-93
-activity#com.example.alexf.calculus.Recordes_Nivel_Facil_Soma
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:109:9-114:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:108:13-91
+activity#com.alex.calculus.recordes.Recordes_Nivel_Facil_Soma
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:113:9-118:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:113:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:117:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:112:13-80
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:116:13-80
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:111:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:115:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:114:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:118:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:110:13-80
-activity#com.example.alexf.calculus.Recordes_Nivel_Facil_Subtracao
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:115:9-120:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:114:13-80
+activity#com.alex.calculus.recordes.Recordes_Nivel_Facil_Subtracao
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:119:9-124:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:119:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:123:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:118:13-85
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:122:13-85
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:117:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:121:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:120:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:124:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:116:13-85
-activity#com.example.alexf.calculus.Recordes_Nivel_Facil_Multiplicacao
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:121:9-126:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:120:13-85
+activity#com.alex.calculus.recordes.Recordes_Nivel_Facil_Multiplicacao
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:125:9-130:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:125:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:129:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:124:13-89
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:128:13-89
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:123:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:127:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:126:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:130:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:122:13-89
-activity#com.example.alexf.calculus.Recordes_Nivel_Facil_Divisao
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:127:9-132:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:126:13-89
+activity#com.alex.calculus.recordes.Recordes_Nivel_Facil_Divisao
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:131:9-136:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:131:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:135:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:130:13-83
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:134:13-83
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:129:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:133:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:132:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:136:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:128:13-83
-activity#com.example.alexf.calculus.Recordes_Facil_Soma_Novo
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:133:9-138:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:132:13-83
+activity#com.alex.calculus.recordes.Recordes_Facil_Soma_Novo
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:137:9-142:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:137:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:141:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:136:13-78
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:140:13-78
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:135:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:139:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:138:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:142:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:134:13-79
-activity#com.example.alexf.calculus.Recordes_Nivel_Facil_Subtracao_Novo
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:139:9-144:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:138:13-79
+activity#com.alex.calculus.recordes.Recordes_Nivel_Facil_Subtracao_Novo
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:143:9-148:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:143:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:147:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:142:13-91
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:146:13-91
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:141:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:145:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:144:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:148:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:140:13-90
-activity#com.example.alexf.calculus.Recordes_Nivel_Medio
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:145:9-150:54
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:144:13-90
+activity#com.alex.calculus.recordes.Recordes_Nivel_Medio
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:149:9-154:54
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:149:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:153:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:148:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:152:13-74
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:147:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:151:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:150:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:154:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:146:13-75
-activity#com.example.alexf.calculus.Recordes_Nivel_Dificil
-ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:151:9-156:63
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:150:13-75
+activity#com.alex.calculus.recordes.Recordes_Nivel_Dificil
+ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:155:9-160:63
 	android:screenOrientation
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:155:13-50
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:159:13-50
 	android:label
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:154:13-76
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:158:13-76
 	android:configChanges
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:153:13-74
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:157:13-74
 	android:theme
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:156:13-51
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:160:13-51
 	android:name
-		ADDED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml:152:13-77
+		ADDED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml:156:13-77
 uses-sdk
-INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] C:\Users\alexf\.android\build-cache\cbb8a4e476a858495ae0747ba01914564942ffe0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\alexf\.android\build-cache\992a9a6ff0381733990379a955d5d992a70774ec\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\alexf\.android\build-cache\89e531f17738e0abd15609c57431a25ca0b2d779\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\alexf\.android\build-cache\6a1f8d5b284427180277195b5f254789367f0dc9\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\alexf\.android\build-cache\406d87f8a98b99fddac6009066ef456bf4bbe317\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\alexf\.android\build-cache\076dc909951c613dc7b50472771ea295a3c86449\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\alexf\.android\build-cache\b64df9bc46ccafdcfa6de78314d44036a814d8ab\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\alexf\.android\build-cache\384015b3bd2d639a951b9232e27c25bf2a634401\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\alexf\.android\build-cache\10741ebd359c6c7ae712c238cccb99806a107df4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\alexf\.android\build-cache\cf2f2af12ebb7461cad5f7440962638a4f047a4f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\alexf\.android\build-cache\b3abadd19ff9db26d93285ba6d9837be688e0083\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] E:\Drive\Facul\tcc\Calculus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\alexf\.android\build-cache\992a9a6ff0381733990379a955d5d992a70774ec\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Drive\Facul\tcc\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projetos\Android\Calculus\app\src\main\AndroidManifest.xml

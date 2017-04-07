@@ -62,7 +62,7 @@
             android:fontFamily="casual"
             android:text="Vamos Subtrair"
             android:textAlignment="center"
-            android:textColor="#04fa10"
+            android:textColor="#1E90FF"
             android:textSize="40sp"
             android:textStyle="normal|bold" />
 

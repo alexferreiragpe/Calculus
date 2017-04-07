@@ -35,7 +35,7 @@
             android:fontFamily="casual"
             android:text="Calculus - Ajuda"
             android:textAlignment="center"
-            android:textColor="@android:color/holo_red_light"
+            android:textColor="#1E90FF"
             android:textSize="30sp"
             android:textStyle="normal|bold" />
 

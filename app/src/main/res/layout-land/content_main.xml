@@ -65,14 +65,14 @@
         android:id="@+id/TxtAjuda"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/TxtUsuario"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="23dp"
+        android:layout_marginTop="29dp"
         android:background="@android:color/transparent"
         android:fontFamily="casual"
         android:text="@string/escolha_o_n_vel"
-        android:textColor="@color/colorPrimary"
-        android:textSize="30sp"
+        android:textColor="#1E90FF"
+        android:textSize="45sp"
         android:textStyle="normal|bold" />
 
     <Button
