@@ -1,102 +1,102 @@
 [
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__medio.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__medio.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__soma__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__soma__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__multiplicacao__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__multiplicacao__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\recordes_row_layout.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\recordes_row_layout.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_main.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\content_main.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__divisao.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__divisao.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_opcoes__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_opcoes__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_home__inicial__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_home__inicial__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_splash.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\content_splash.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_help__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_help__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__subracao__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__subracao__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__dificil.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__dificil.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__medio__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__medio__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__divisao__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__divisao__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__dificil__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__dificil__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\recordes_list_layout.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\recordes_list_layout.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__soma.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__soma.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__subtracao__novo.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__subtracao__novo.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recorde__facil__soma__novo.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recorde__facil__soma__novo.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__subtracao.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__subtracao.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_identifica.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\content_identifica.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_sobre__fullscreen.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_sobre__fullscreen.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__multiplicacao.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__multiplicacao.xml"
-  }
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__medio.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__medio.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__soma__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__soma__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__multiplicacao__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__multiplicacao__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\recordes_row_layout.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\recordes_row_layout.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_main.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__divisao.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__divisao.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_opcoes__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_opcoes__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_home__inicial__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_home__inicial__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_splash.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\content_splash.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_help__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_help__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__subracao__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__subracao__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__dificil.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__dificil.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__medio__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__medio__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__divisao__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__divisao__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__dificil__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__dificil__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\recordes_list_layout.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\recordes_list_layout.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__soma.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__soma.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__subtracao__novo.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__subtracao__novo.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recorde__facil__soma__novo.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recorde__facil__soma__novo.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__subtracao.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__subtracao.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_identifica.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\content_identifica.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_sobre__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_sobre__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__multiplicacao.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__multiplicacao.xml"
+    }
 ]

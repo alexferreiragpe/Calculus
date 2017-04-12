@@ -1,38 +1,38 @@
 [
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-    "source": "C:\\Users\\alexf\\.android\\build-cache\\992a9a6ff0381733990379a955d5d992a70774ec\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-    "source": "C:\\Users\\alexf\\.android\\build-cache\\992a9a6ff0381733990379a955d5d992a70774ec\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
-    "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
-  },
-  {
-    "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-    "source": "C:\\Users\\alexf\\.android\\build-cache\\992a9a6ff0381733990379a955d5d992a70774ec\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
-  }
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\alexf\\.android\\build-cache\\992a9a6ff0381733990379a955d5d992a70774ec\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\alexf\\.android\\build-cache\\992a9a6ff0381733990379a955d5d992a70774ec\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\alexf\\.android\\build-cache\\992a9a6ff0381733990379a955d5d992a70774ec\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
 ]

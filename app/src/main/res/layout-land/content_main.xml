@@ -24,7 +24,7 @@
         android:layout_alignBaseline="@+id/BtnMedio"
         android:layout_alignBottom="@+id/BtnMedio"
         android:layout_toEndOf="@+id/TxtAjuda"
-        android:background="@color/colorAccent"
+        android:background="@drawable/fundoazulbotao"
         android:ems="4"
         android:fontFamily="casual"
         android:text="@string/dif_cil"
@@ -40,7 +40,7 @@
         android:layout_alignBaseline="@+id/BtnFacil"
         android:layout_alignBottom="@+id/BtnFacil"
         android:layout_centerHorizontal="true"
-        android:background="@color/colorAccent"
+        android:background="@drawable/fundoazulbotao"
         android:ems="4"
         android:fontFamily="casual"
         android:text="@string/m_dio"
@@ -51,28 +51,28 @@
 
     <TextView
         android:id="@+id/TxtUsuario"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/TxtUsuario"
         android:layout_alignTop="@+id/TxtUsuario"
         android:background="@android:color/transparent"
         android:fontFamily="casual"
         android:textColor="@android:color/holo_red_light"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:textStyle="normal|bold" />
 
     <TextView
         android:id="@+id/TxtAjuda"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
+        android:layout_below="@+id/TxtUsuario"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="29dp"
+        android:layout_marginTop="5dp"
         android:background="@android:color/transparent"
         android:fontFamily="casual"
         android:text="@string/escolha_o_n_vel"
-        android:textColor="#1E90FF"
-        android:textSize="45sp"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="30sp"
         android:textStyle="normal|bold" />
 
     <Button
@@ -83,7 +83,7 @@
         android:layout_below="@+id/TxtAjuda"
         android:layout_marginTop="37dp"
         android:layout_toStartOf="@+id/TxtAjuda"
-        android:background="@color/colorAccent"
+        android:background="@drawable/fundoazulbotao"
         android:ems="4"
         android:fontFamily="casual"
         android:text="@string/f_cil"

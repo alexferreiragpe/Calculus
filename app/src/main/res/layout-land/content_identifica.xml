@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/TxtIdade"
         android:layout_centerHorizontal="true"
-        android:background="@android:color/background_light"
+        android:background="@drawable/fundotransparente"
         android:ems="10"
         android:hint="Digite seu Nome"
         android:inputType="textPersonName"
@@ -39,7 +39,7 @@
         android:layout_alignStart="@+id/TxtId"
         android:layout_centerVertical="true"
         android:layout_marginTop="10dp"
-        android:background="@android:color/background_light"
+        android:background="@drawable/fundotransparente"
         android:ems="2"
         android:hint="Idade"
         android:inputType="number"
@@ -56,10 +56,10 @@
         android:layout_alignStart="@+id/TxtIdade"
         android:layout_below="@+id/TxtIdade"
         android:layout_marginTop="35dp"
-        android:background="@color/black_overlay"
+        android:background="@drawable/fundoverde"
         android:ems="10"
         android:text="Começar"
-        android:textColor="#1E90FF"
+        android:textColor="@android:color/black"
         android:textSize="20sp"
         android:textStyle="normal|bold" />
 
@@ -73,7 +73,7 @@
         android:text="Calculus"
         android:textAlignment="center"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textColor="#1E90FF"
+        android:textColor="@android:color/holo_red_dark"
         android:textSize="60dp"
         android:textStyle="bold" />
 

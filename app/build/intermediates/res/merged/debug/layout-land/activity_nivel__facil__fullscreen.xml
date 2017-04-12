@@ -1,60 +1,105 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:background="#0099cc"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0099cc"
     android:orientation="horizontal"
     tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.Nivel_Facil_FullscreenActivity">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
          TextureView, etc. -->
-    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
-        android:layout_height="match_parent" android:gravity="center" android:keepScreenOn="true"
-        android:text="@string/dummy_content" android:textColor="#33b5e5" android:textSize="50sp"
+    <TextView
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:keepScreenOn="true"
+        android:text="@string/dummy_content"
+        android:textColor="#33b5e5"
+        android:textSize="50sp"
         android:textStyle="bold" />
 
     <!-- This FrameLayout insets its children based on system windows using
          android:fitsSystemWindows. -->
-    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
-        android:background="@drawable/side_nav_bar" android:fitsSystemWindows="true">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/side_nav_bar"
+        android:fitsSystemWindows="true">
 
-        <ImageButton android:id="@+id/BtnDivisao" android:layout_width="96dp"
-            android:layout_height="72dp" android:layout_marginLeft="440dp"
-            android:layout_marginTop="130dp" android:background="@drawable/divisao" />
+        <ImageButton
+            android:id="@+id/BtnDivisao"
+            android:layout_width="96dp"
+            android:layout_height="72dp"
+            android:layout_marginLeft="440dp"
+            android:layout_marginTop="130dp"
+            android:background="@drawable/divisao" />
 
-        <ImageButton android:id="@+id/BtnMultiplica" android:layout_width="96dp"
-            android:layout_height="72dp" android:layout_marginLeft="320dp"
-            android:layout_marginTop="130dp" android:background="@drawable/multiplica" />
+        <ImageButton
+            android:id="@+id/BtnMultiplica"
+            android:layout_width="96dp"
+            android:layout_height="72dp"
+            android:layout_marginLeft="320dp"
+            android:layout_marginTop="130dp"
+            android:background="@drawable/multiplica" />
 
-        <TextView android:id="@+id/textView8" android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true" android:background="@android:color/transparent"
-            android:fontFamily="casual" android:gravity="top"
-            android:text="Calculus - Nível Fácil\nEscolha a Operação" android:textAlignment="center"
-            android:textColor="#1E90FF" android:textSize="30sp" android:textStyle="normal|bold" />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            android:fontFamily="casual"
+            android:gravity="top"
+            android:text="Calculus - Nível Fácil\nEscolha a Operação"
+            android:textAlignment="center"
+            android:textColor="#1E90FF"
+            android:textSize="30sp"
+            android:textStyle="normal|bold" />
 
-        <LinearLayout android:id="@+id/fullscreen_content_controls" style="?metaButtonBarStyle"
-            android:layout_width="match_parent" android:layout_height="wrap_content"
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="?metaButtonBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_gravity="bottom|center_horizontal"
-            android:background="@color/black_overlay" android:orientation="horizontal"
+            android:background="@color/black_overlay"
+            android:orientation="horizontal"
             tools:ignore="UselessParent">
 
-            <Button android:id="@+id/dummy_button" style="?metaButtonBarButtonStyle"
-                android:layout_width="0dp" android:layout_height="wrap_content"
-                android:layout_weight="1" android:background="@color/black_overlay"
-                android:fontFamily="sans-serif-medium" android:text="@string/dummy_button"
-                android:textColor="@color/colorAccent" android:textSize="20sp"
+            <Button
+                android:id="@+id/dummy_button"
+                style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/black_overlay"
+                android:fontFamily="sans-serif-medium"
+                android:text="@string/dummy_button"
+                android:textColor="@color/colorAccent"
+                android:textSize="20sp"
                 android:textStyle="normal|bold" />
 
 
         </LinearLayout>
 
-        <ImageButton android:id="@+id/imBtnSoma" android:layout_width="96dp"
-            android:layout_height="72dp" android:layout_marginLeft="80dp"
-            android:layout_marginTop="130dp" android:background="@drawable/soma" />
+        <ImageButton
+            android:id="@+id/imBtnSoma"
+            android:layout_width="96dp"
+            android:layout_height="72dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="130dp"
+            android:background="@drawable/soma" />
 
-        <ImageButton android:id="@+id/BtnSubtracao" android:layout_width="96dp"
-            android:layout_height="72dp" android:layout_marginLeft="200dp"
-            android:layout_marginTop="130dp" android:background="@drawable/subracao" />
+        <ImageButton
+            android:id="@+id/BtnSubtracao"
+            android:layout_width="96dp"
+            android:layout_height="72dp"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="130dp"
+            android:background="@drawable/subtracao" />
 
     </FrameLayout>
 
