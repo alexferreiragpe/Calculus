@@ -162,7 +162,7 @@
             android:label="@string/title_activity_recordes__nivel__dificil"
             android:screenOrientation="landscape"
             android:theme="@style/FullscreenTheme" />
-         />
+        />
     </application>
 
 </manifest>

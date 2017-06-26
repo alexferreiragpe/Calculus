@@ -28,12 +28,12 @@
         "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__divisao.xml"
     },
     {
-        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_opcoes__fullscreen.xml",
-        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_opcoes__fullscreen.xml"
-    },
-    {
         "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_home__inicial__fullscreen.xml",
         "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_home__inicial__fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_opcoes__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_opcoes__fullscreen.xml"
     },
     {
         "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_splash.xml",
