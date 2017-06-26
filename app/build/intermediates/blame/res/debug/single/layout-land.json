@@ -20,6 +20,10 @@
         "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\content_main.xml"
     },
     {
+        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__subtracao__fullscreen.xml",
+        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__subtracao__fullscreen.xml"
+    },
+    {
         "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__facil__divisao.xml",
         "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_recordes__nivel__facil__divisao.xml"
     },
@@ -42,10 +46,6 @@
     {
         "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__fullscreen.xml",
         "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__fullscreen.xml"
-    },
-    {
-        "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_nivel__facil__subracao__fullscreen.xml",
-        "source": "E:\\Projetos\\Android\\Calculus\\app\\src\\main\\res\\layout-land\\activity_nivel__facil__subracao__fullscreen.xml"
     },
     {
         "merged": "E:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_recordes__nivel__dificil.xml",

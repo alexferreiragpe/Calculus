@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#0099cc"
-    tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.Nivel_Facil_Divisao_FullscreenActivity">
+    tools:context="com.alex.calculus.niveis.Nivel_Facil_Divisao_FullscreenActivity">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
@@ -41,14 +41,13 @@
             <Button
                 android:id="@+id/dummy_button"
                 style="?metaButtonBarButtonStyle"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
                 android:background="@color/black_overlay"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/dummy_button"
                 android:textColor="@color/colorAccent"
-                android:textSize="20sp"
+                android:textSize="15sp"
                 android:textStyle="normal|bold" />
 
 
@@ -62,7 +61,7 @@
             android:fontFamily="casual"
             android:text="Vamos Dividir"
             android:textAlignment="center"
-            android:textColor="#1E90FF"
+            android:textColor="#0000FF"
             android:textSize="40sp"
             android:textStyle="normal|bold" />
 
@@ -138,7 +137,7 @@
             android:layout_marginTop="70dp"
             android:fontFamily="casual"
             android:text="Acertos:"
-            android:textColor="@color/colorPrimary"
+            android:textColor="#40E0D0"
             android:textSize="18sp"
             android:textStyle="normal|bold" />
 
@@ -150,7 +149,7 @@
             android:layout_marginTop="90dp"
             android:fontFamily="casual"
             android:text="Erros:"
-            android:textColor="@android:color/holo_red_dark"
+            android:textColor="#8B0000"
             android:textSize="18sp"
             android:textStyle="normal|bold" />
 
@@ -179,7 +178,7 @@
             android:layout_height="61dp"
             android:layout_marginLeft="480dp"
             android:layout_marginTop="130dp"
-            android:background="@color/colorPrimary"
+            android:background="@drawable/fundoverde"
             android:contentDescription=""
             android:src="@android:drawable/ic_menu_send"
             tools:ignore="ContentDescription,RtlHardcoded" />
@@ -190,7 +189,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="480dp"
             android:layout_marginTop="200dp"
-            android:background="@color/colorAccent"
+            android:background="@drawable/fundoazulbotao"
             android:contentDescription=""
             android:src="@android:drawable/ic_media_ff"
             android:visibility="visible"

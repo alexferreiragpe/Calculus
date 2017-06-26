@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:background="#0099cc"
     android:orientation="horizontal"
-    tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.Nivel_Facil_FullscreenActivity">
+    tools:context="com.alex.calculus.niveis.Nivel_Facil_FullscreenActivity">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
@@ -55,7 +55,7 @@
             android:gravity="top"
             android:text="Calculus - Nível Fácil\nEscolha a Operação"
             android:textAlignment="center"
-            android:textColor="#1E90FF"
+            android:textColor="#A52A2A"
             android:textSize="30sp"
             android:textStyle="normal|bold" />
 
@@ -72,14 +72,13 @@
             <Button
                 android:id="@+id/dummy_button"
                 style="?metaButtonBarButtonStyle"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
                 android:background="@color/black_overlay"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/dummy_button"
                 android:textColor="@color/colorAccent"
-                android:textSize="20sp"
+                android:textSize="15sp"
                 android:textStyle="normal|bold" />
 
 

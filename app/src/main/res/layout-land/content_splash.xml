@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:screenOrientation="landscape"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.SplashActivity"
+    tools:context="com.alex.calculus.inicio.SplashActivity"
     tools:showIn="@layout/activity_splash">
 
     <TextView
@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="89dp"
+        android:layout_marginTop="59dp"
         android:fontFamily="casual"
         android:text="Calculus"
         android:textAlignment="center"

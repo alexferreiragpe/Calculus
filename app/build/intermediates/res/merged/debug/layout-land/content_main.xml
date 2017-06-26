@@ -12,7 +12,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.alexf.mathkids.com.example.alexf.calculus.MainActivity"
+    tools:context="com.alex.calculus.inicio.MainActivity"
     tools:showIn="@layout/app_bar_main">
 
 
@@ -28,7 +28,7 @@
         android:ems="4"
         android:fontFamily="casual"
         android:text="@string/dif_cil"
-        android:textColor="@android:color/holo_red_dark"
+        android:textColor="#A52A2A"
         android:textSize="25sp"
         android:textStyle="normal|bold" />
 
@@ -44,7 +44,7 @@
         android:ems="4"
         android:fontFamily="casual"
         android:text="@string/m_dio"
-        android:textColor="@android:color/holo_red_light"
+        android:textColor="#0000FF"
         android:textColorLink="?android:attr/colorMultiSelectHighlight"
         android:textSize="25sp"
         android:textStyle="normal|bold" />
@@ -87,7 +87,7 @@
         android:ems="4"
         android:fontFamily="casual"
         android:text="@string/f_cil"
-        android:textColor="?attr/colorPrimaryDark"
+        android:textColor="#00FF7F"
         android:textSize="25sp"
         android:textStyle="normal|bold"
         tools:ignore="RelativeOverlap" />

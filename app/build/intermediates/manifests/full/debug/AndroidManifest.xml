@@ -9,7 +9,6 @@
         android:targetSdkVersion="24" />
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
     <application
         android:allowBackup="true"
@@ -163,8 +162,7 @@
             android:label="@string/title_activity_recordes__nivel__dificil"
             android:screenOrientation="landscape"
             android:theme="@style/FullscreenTheme" />
-
-        <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+         />
     </application>
 
 </manifest>

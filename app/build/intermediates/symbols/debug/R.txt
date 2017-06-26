@@ -880,12 +880,12 @@ int id textView13 0x7f0d007c
 int id textView14 0x7f0d0098
 int id textView16 0x7f0d0090
 int id textView17 0x7f0d0099
-int id textView18 0x7f0d00cb
+int id textView18 0x7f0d00c9
 int id textView2 0x7f0d00ac
 int id textView20 0x7f0d00c6
-int id textView21 0x7f0d00c9
+int id textView21 0x7f0d00ca
 int id textView22 0x7f0d00c8
-int id textView23 0x7f0d00ca
+int id textView23 0x7f0d00cb
 int id textView3 0x7f0d00ad
 int id textView4 0x7f0d00a2
 int id textView5 0x7f0d009d
@@ -950,7 +950,7 @@ int layout activity_nivel__facil__divisao__fullscreen 0x7f040020
 int layout activity_nivel__facil__fullscreen 0x7f040021
 int layout activity_nivel__facil__multiplicacao__fullscreen 0x7f040022
 int layout activity_nivel__facil__soma__fullscreen 0x7f040023
-int layout activity_nivel__facil__subracao__fullscreen 0x7f040024
+int layout activity_nivel__facil__subtracao__fullscreen 0x7f040024
 int layout activity_nivel__medio__fullscreen 0x7f040025
 int layout activity_novo_jogo 0x7f040026
 int layout activity_opcoes__fullscreen 0x7f040027

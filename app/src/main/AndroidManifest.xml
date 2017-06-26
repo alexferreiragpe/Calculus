@@ -3,7 +3,6 @@
     package="com.example.alexf.mathkids">
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
     <application
         android:allowBackup="true"
@@ -158,8 +157,7 @@
             android:screenOrientation="landscape"
             android:theme="@style/FullscreenTheme" />
 
-
-        <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+        />
     </application>
 
 </manifest>

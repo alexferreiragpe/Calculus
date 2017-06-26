@@ -3240,12 +3240,12 @@ containing a value of this type.
         public static final int textView14=0x7f0d0098;
         public static final int textView16=0x7f0d0090;
         public static final int textView17=0x7f0d0099;
-        public static final int textView18=0x7f0d00cb;
+        public static final int textView18=0x7f0d00c9;
         public static final int textView2=0x7f0d00ac;
         public static final int textView20=0x7f0d00c6;
-        public static final int textView21=0x7f0d00c9;
+        public static final int textView21=0x7f0d00ca;
         public static final int textView22=0x7f0d00c8;
-        public static final int textView23=0x7f0d00ca;
+        public static final int textView23=0x7f0d00cb;
         public static final int textView3=0x7f0d00ad;
         public static final int textView4=0x7f0d00a2;
         public static final int textView5=0x7f0d009d;
@@ -3314,7 +3314,7 @@ containing a value of this type.
         public static final int activity_nivel__facil__fullscreen=0x7f040021;
         public static final int activity_nivel__facil__multiplicacao__fullscreen=0x7f040022;
         public static final int activity_nivel__facil__soma__fullscreen=0x7f040023;
-        public static final int activity_nivel__facil__subracao__fullscreen=0x7f040024;
+        public static final int activity_nivel__facil__subtracao__fullscreen=0x7f040024;
         public static final int activity_nivel__medio__fullscreen=0x7f040025;
         public static final int activity_novo_jogo=0x7f040026;
         public static final int activity_opcoes__fullscreen=0x7f040027;
