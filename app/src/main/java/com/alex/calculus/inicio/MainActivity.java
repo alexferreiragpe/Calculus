@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity
         Intent intent = getIntent();
         final String Nome = intent.getStringExtra("nome");
         final String Idade = intent.getStringExtra("idade");
+        setTitle("Calculus");
 
 
         final SQLiteDatabase db;

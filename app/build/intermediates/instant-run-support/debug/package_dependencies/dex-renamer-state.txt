@@ -1,4 +1,4 @@
-#Mon Jun 26 18:10:32 BRT 2017
+#Wed Aug 02 18:07:44 BRT 2017
 file.2=E\:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.2.1_777c0678d034a9e755dd472909acf5ac21528eca\\classes.dex
 base.2=E\:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.2.1_777c0678d034a9e755dd472909acf5ac21528eca
 file.1=E\:\\Projetos\\Android\\Calculus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c37b1c33676c34675c97f23386b15bc9087416b7\\classes.dex

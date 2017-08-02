@@ -12,102 +12,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\7ce08be82ea035d8d8067335409824ac6f7ffe1b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_51c6b6b82c02035eb630881687983bb80cd72399.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\f91eff56d63f8a0a69929d9383ad1443fa59e45d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_c37b1c33676c34675c97f23386b15bc9087416b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\19f686471178c8b527a31c3bda5ed74186c89c0d\output\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4ae792ec2a3b79ff39a7504b4b1d813adab7da5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\33b0d5177fb572ae8851ee43b84a54ebbcd32325\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_5c1c624ea256c7e5da43a0c668bad58b9e9acaee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_518a57425b1e6fed221dab7f517d1489a649f60c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e4365e1e722325b7f85648c4011c224a7a1a54f6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\906e17bd279b38a0cde0cd9d2e6a1838a7cd527f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_302d96ad2cea77f7481a82840ae0cdaaa5ef6493.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\0d9f1c692a111a58bff1b5f6bc2c64d19e22c418\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_07e19eb5eeb386335935647a846872106a3d508f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\f91eff56d63f8a0a69929d9383ad1443fa59e45d\output\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_777c0678d034a9e755dd472909acf5ac21528eca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\alexf\.android\build-cache\50a3ccce38c651398c3feec963c7813407bb42fb\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_70a575371cbc968b5cc6f364cadec5b850f12ea2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\alexf\.android\build-cache\c50ab40ed8c453dd9ce7fe55358aeac2445447e3\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_f6cdb51beed703669c436eb627f21b50ac114a62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\7ce08be82ea035d8d8067335409824ac6f7ffe1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_51c6b6b82c02035eb630881687983bb80cd72399.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,12 +57,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\f91eff56d63f8a0a69929d9383ad1443fa59e45d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_c37b1c33676c34675c97f23386b15bc9087416b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\alexf\.android\build-cache\4437e2c37cc634b46083be39ad70b22a5cb19080\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bd641ad0b5c79316ef701fe7943c525e1c44343c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\19f686471178c8b527a31c3bda5ed74186c89c0d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4ae792ec2a3b79ff39a7504b4b1d813adab7da5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\33b0d5177fb572ae8851ee43b84a54ebbcd32325\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_5c1c624ea256c7e5da43a0c668bad58b9e9acaee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,6 +102,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\alexf\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_518a57425b1e6fed221dab7f517d1489a649f60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e4365e1e722325b7f85648c4011c224a7a1a54f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\alexf\.android\build-cache\2a878a9afa908c5efa1fac2d6c7aa94add2dce7f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -165,12 +129,66 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\906e17bd279b38a0cde0cd9d2e6a1838a7cd527f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_302d96ad2cea77f7481a82840ae0cdaaa5ef6493.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projetos\Android\Calculus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_15019a07acb2c6cdeb23b3101c686d629d3887ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\0d9f1c692a111a58bff1b5f6bc2c64d19e22c418\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_07e19eb5eeb386335935647a846872106a3d508f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\alexf\.android\build-cache\de6ff64cb618c36999ae2bb17a935d76c8e2e6c0\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3a68b41f77f8cc2c4ae34d9aef79a25df76c2581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\f91eff56d63f8a0a69929d9383ad1443fa59e45d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_777c0678d034a9e755dd472909acf5ac21528eca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projetos\Android\Calculus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee0026ccd4f91bb2df48be69bc8b9cf95ecfda0">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9534dd9164c017df54c03d8304054234616265fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexf\.android\build-cache\50a3ccce38c651398c3feec963c7813407bb42fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Projetos\Android\Calculus\app\build\intermediates\pre-dexed\debug\classes_70a575371cbc968b5cc6f364cadec5b850f12ea2.jar" />
     </item>
 
 </items>
